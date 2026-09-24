@@ -3,7 +3,7 @@
 Prototype som demonstrerer foreslått metode og analyseopplegg for
 «Treffsikre tiltak for grønne reiser i Innherredsbyen».
 
-[Åpne den interaktive prototypen](https://sea-breeze-consulting.github.io/interaktiv-rapport-innherredsbyen/)
+[Åpne den interaktive prototypen]([https://sea-breeze-consulting.github.io/interaktiv-rapport-innherredsbyen/](https://sea-breeze-consulting.github.io/interaktiv_rapport_innherredsbyen/))
 
 Prototypen er et supplerende demonstrasjonsvedlegg. Det formelle
 tilbudsgrunnlaget fremgår av dokumentene levert i konkurransegjennomføringsverktøyet.
